@@ -13,7 +13,7 @@ The primary classes used are `Person` and `FamilyTree`.
 
 ## Difficulties
 - Using a map for the first time was a little challenging, but it is far easier than using a Node-Tree setup to manage all of the attributes of a `Person`
-- Had a little issue using the arrays to display the information, but the issue was simply using ".array.ForEach" instead of just ".ForEach"
+- Had a little issue using the arrays to display the information, but the issue was simply using ".array.forEach" instead of just ".forEach"
 
 ## Wins
 - First time using a map feels great!
